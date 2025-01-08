@@ -56,9 +56,12 @@ To view the meta tags implemented for the website:
 
 Below is an example screenshot from the project:
 
-![Website Screenshot]([https://github.com/Nikhileshrana/Bright-Nikhilesh-Rana/blob/main/Website%20Images/Desktop%20Hero.png?raw=true])
+![Website Screenshot](https://github.com/Nikhileshrana/Bright-Nikhilesh-Rana/blob/main/Website%20Images/Desktop%20Hero.png?raw=true)
 ![Responsive Check](https://raw.githubusercontent.com/Nikhileshrana/Bright-Nikhilesh-Rana/refs/heads/main/Website%20Images/Mobile%20Layout(Iphone%2014%20pro%20max).png)
-For Google Tags -> ![Nikhilesh Bright Assignment Google Tag]()
+![Responsive Check](https://github.com/Nikhileshrana/Bright-Nikhilesh-Rana/blob/main/Website%20Images/Bright%20Analytics%20after%20deploying%20website%20on%20github.png?raw=true)
+![Responsive Check](https://github.com/Nikhileshrana/Bright-Nikhilesh-Rana/blob/main/Website%20Images/Tablet%20Preview.png?raw=true)
+![Responsive Check](https://github.com/Nikhileshrana/Bright-Nikhilesh-Rana/blob/main/Website%20Images/Tablet%20Layout%20with%20working%20Slider%20(Working).png?raw=true)
+![Responsive Check](https://github.com/Nikhileshrana/Bright-Nikhilesh-Rana/blob/main/Website%20Images/Mobile%20Layout%20in%20smallest%20width%20and%20height(iPhone%20SE).png?raw=true)
 
 ---
 
